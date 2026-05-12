@@ -7,7 +7,7 @@ class Locators:
   search_page_header='SEARCH RESULTS FOR: SOFTWARE'
   search_page_option ="(//div[@class='post_item'])[4]"
   
-  #Need to check new changes are reflecting or not
+  #Check Jenkins for auto trigger
   
 #Home
 
